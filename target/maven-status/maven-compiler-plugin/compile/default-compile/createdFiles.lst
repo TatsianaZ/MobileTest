@@ -1,0 +1,8 @@
+com\it_academy\mobile\testing\configuration\AddressConfigurator.class
+com\it_academy\mobile\testing\configuration\CapabilitiesConfigurator.class
+com\it_academy\mobile\testing\pages\BasePage.class
+com\it_academy\mobile\testing\driver\DriverManager.class
+com\it_academy\mobile\testing\driver\DriverManager$1.class
+com\it_academy\mobile\testing\configuration\ConfigurationReader.class
+com\it_academy\mobile\testing\configuration\EnvironmentType.class
+com\it_academy\mobile\testing\pages\CalculatorPage.class

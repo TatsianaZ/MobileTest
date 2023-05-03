@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-13T19:57:16 CEST" name="Surefire suite" finished-at="2022-07-13T19:58:46 CEST" duration-ms="89648">
+    <groups>
+    </groups>
+    <test started-at="2022-07-13T19:57:16 CEST" name="Surefire test" finished-at="2022-07-13T19:58:46 CEST" duration-ms="89648">
+      <class name="com.it_academy.mobile.testing.CalculatorTest">
+        <test-method is-config="true" signature="createSession()[pri:0, instance:com.it_academy.mobile.testing.CalculatorTest@2f67b837]" started-at="2022-07-13T19:57:17 CEST" name="createSession" finished-at="2022-07-13T19:58:32 CEST" duration-ms="75045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSession -->
+        <test-method signature="testSumOfTwoDigits()[pri:0, instance:com.it_academy.mobile.testing.CalculatorTest@2f67b837]" started-at="2022-07-13T19:58:32 CEST" name="testSumOfTwoDigits" finished-at="2022-07-13T19:58:36 CEST" duration-ms="4075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumOfTwoDigits -->
+        <test-method is-config="true" signature="resetApp()[pri:0, instance:com.it_academy.mobile.testing.CalculatorTest@2f67b837]" started-at="2022-07-13T19:58:36 CEST" name="resetApp" finished-at="2022-07-13T19:58:45 CEST" duration-ms="9433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.it_academy.mobile.testing.CalculatorTest@2f67b837]" started-at="2022-07-13T19:58:45 CEST" name="closeSession" finished-at="2022-07-13T19:58:46 CEST" duration-ms="973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- com.it_academy.mobile.testing.CalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
